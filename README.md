@@ -1,6 +1,6 @@
 # Facemesh Landmark
 
-This project is a wweb application allowing the user to detect his facemesh or the mapping of his face using his real time camera feed.
+This project is a web application allowing the user to detect his facemesh or the mapping of his face using his real time camera feed.
 This model can be used for the creation of effects and filters on social media such as on snapchat, messenger, instagram ... 
 
 # Getting Started with Create React App
