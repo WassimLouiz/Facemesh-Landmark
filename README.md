@@ -1,3 +1,8 @@
+# Facemesh Landmark
+
+This project is a wweb application allowing the user to detect his facemesh or the mapping of his face using his real time camera feed.
+This model can be used for the creation of effects and filters on social media such as on snapchat, messenger, instagram ... 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
